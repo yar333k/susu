@@ -1,0 +1,13 @@
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\bin\Debug\netcoreapp3.1\susu.exe
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\bin\Debug\netcoreapp3.1\susu.deps.json
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\bin\Debug\netcoreapp3.1\susu.runtimeconfig.json
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\bin\Debug\netcoreapp3.1\susu.runtimeconfig.dev.json
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\bin\Debug\netcoreapp3.1\susu.dll
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\bin\Debug\netcoreapp3.1\susu.pdb
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\obj\Debug\netcoreapp3.1\susu.csprojAssemblyReference.cache
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\obj\Debug\netcoreapp3.1\susu.AssemblyInfoInputs.cache
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\obj\Debug\netcoreapp3.1\susu.AssemblyInfo.cs
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\obj\Debug\netcoreapp3.1\susu.csproj.CoreCompileInputs.cache
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\obj\Debug\netcoreapp3.1\susu.dll
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\obj\Debug\netcoreapp3.1\susu.pdb
+C:\Users\lalka\OneDrive\Рабочий стол\lab_0\susu\obj\Debug\netcoreapp3.1\susu.genruntimeconfig.cache
